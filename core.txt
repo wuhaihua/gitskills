@@ -2,3 +2,5 @@
 Start Zhizi Core programming
 
 Try branch function feature -1 & 2
+
+Add feature 3
