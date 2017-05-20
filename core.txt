@@ -1,4 +1,4 @@
 
 Start Zhizi Core programming
 
-Try branch function feature -2
+Try branch function feature -1 & 2
